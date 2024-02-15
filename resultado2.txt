@@ -1,0 +1,4 @@
+origem: 0 - destino: 28 - preferencia: 1 - tempo de execucao: 1.0528999991947785
+origem: 2 - destino: 25 - preferencia: 2 - tempo de execucao: 1.0953000019071624
+origem: 15 - destino: 2 - preferencia: 3 - tempo de execucao: 1.075499996659346
+
